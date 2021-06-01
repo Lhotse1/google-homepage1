@@ -1,0 +1,61 @@
+
+.top-nav { 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+ul a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    float: left;
+}
+
+.tn-left {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 22px 20px;
+}
+
+.tn-right {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 22px 20px;
+}
+
+/* Above styling is for top nav bar*/
+
+
+.center-item {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 250px;
+}
+
+img {
+    width: 35%;
+    height: auto;
+}
+
+#search-div {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+#search-bar {
+    border-radius: 10px;
+    width: 550px;
+    height: 30px;
+    border-color: rgb(149, 149, 150);
+    border-width: 1px;
+  
+}
